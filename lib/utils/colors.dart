@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const appBarTextColor = Color(0xff070707);
+const headTextColor = Color(0xff4a4949);
+const labelTextGridColor = Color(0xff8E99AA);
+const buttonBgColor = Color(0xffD8DBF1);
+const homePageRegisterColor = Color(0xff979CDE);
+const unSelectedTabColor = Color(0xffA3A5B8);
+const completeColor = Color(0xff46C697);
+const cancelledColor = Color(0xffFF5D5D);
+const subTextColor = Color(0xff979797);
+const buttonColor = Color(0xff6A71CE);
+const backgroundColor = Color(0xffF5F6F9);
+const signUpTextColor = Color(0xff374D70);
+const labelTextColor = Color(0xffB9BFC8);
+const searchTextColor = Color(0xff858585);
+const labelSubTextColor = Color(0xff9F9F9F);
+const unSelectedOtpFieldColor = Color(0xffD1D1D1);
+const buttonTextColorGoogleFacebook = Color(0xff1A1A1A);
+const playButtonColor = Color(0xffFAFBFB);
+const addCommentBgColor = Color(0xffF3F3F3);
+const aboutUsColor = Color(0xff8E9094);
